@@ -1,0 +1,5 @@
+{
+  "name": "SafeAnalyst",
+  "description": "A privacy-focused text analysis tool that allows analysts to anonymize sensitive data. Features include custom mock data mapping, configuration persistence, and NDA-compliant workflows.",
+  "requestFramePermissions": []
+}
