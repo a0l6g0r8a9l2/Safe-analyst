@@ -2,6 +2,8 @@
 
 SafeAnalyst is a privacy-focused web application designed for business and system analysts. It allows users to safely sanitize text containing sensitive information (such as personal names, IP addresses, API keys, and hostnames) before sharing it with third parties or AI tools.
 
+![SafeAnalyst Screenshot](images/screenshot.jpg)
+
 ## Key Features
 
 *   **Sensitive Data Masking**: Replace sensitive entities with mocked tokens (e.g., `[PERSON_1]`, `192.168.x.1`).
